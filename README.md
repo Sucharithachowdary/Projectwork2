@@ -56,7 +56,8 @@ Cloud-based (AWS, GCP, Azure).
 User Interface: Web or mobile-based UI for clinical use.
 Integration: Compatibility with hospital management systems (EHR integration).
 ## System Architecture
-[methology liver.pdf](https://github.com/user-attachments/files/18864934/methology.liver.pdf)
+[arc liver.pdf](https://github.com/user-attachments/files/18866470/arc.liver.pdf)
+
 
 ## Output
 
