@@ -56,8 +56,8 @@ Cloud-based (AWS, GCP, Azure).
 User Interface: Web or mobile-based UI for clinical use.
 Integration: Compatibility with hospital management systems (EHR integration).
 ## System Architecture
-[arc liver.pdf](https://github.com/user-attachments/files/18866470/arc.liver.pdf)
 
+![WhatsApp Image 2025-02-13 at 9 42 39 AM (1)](https://github.com/user-attachments/assets/d3e60eb1-d731-4e18-b94a-fc50d1d13ca7)
 
 ## Output
 
