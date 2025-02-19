@@ -66,7 +66,8 @@ Integration: Compatibility with hospital management systems (EHR integration).
 ![__results___28_0](https://github.com/user-attachments/assets/5a7f81c8-a385-4068-9775-5659b195cd74)
 
 #### Output2 - Bilirubin Distribution Across Different Stages
-![__results___32_0](https://github.com/user-attachments/assets/b4ba4af8-6d9e-42e6-bc1f-6b2e17a58fff)
+
+![__results___31_0](https://github.com/user-attachments/assets/0399c2d2-046d-42cb-8bb3-6014a7661db8)
 
 
 Detection Accuracy: 92%
